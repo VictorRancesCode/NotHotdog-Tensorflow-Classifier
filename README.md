@@ -3,7 +3,6 @@
 
 
 ## Download Model and copy in folder assets
-##link:
 [Download model](https://www.mediafire.com/file/cns5n7p1v1o6cf7/model%20assets%20not%20hotdog.zip)
 
 <p align="center">
